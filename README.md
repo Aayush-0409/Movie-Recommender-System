@@ -4,7 +4,7 @@
 
 This project is a full-stack movie recommendation system. A **FastAPI** backend serves content-based recommendations computed offline with **TF-IDF + cosine similarity**, enriches them with live data from **TMDB (The Movie Database)**, and a **Streamlit** app provides a browsable UI for searching movies, viewing details, and exploring similar titles.
 
-🔗 **Live demo:** [movie-recommender-system-rouge.vercel.app](https://movie-recommender-system-rouge.vercel.app)
+🔗 **Live demo:** [[movie-recommender-system-rouge.vercel.app](https://movie-recommender-system-rouge.vercel.app)](https://movie-rec-frontend-1wjy.onrender.com/)
 
 ---
 
